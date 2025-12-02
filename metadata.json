@@ -1,0 +1,5 @@
+{
+  "name": "AutoDriver AI",
+  "description": "An AI-powered environment for generating build configurations, Makefiles, and static analysis for hardware drivers and SDKs.",
+  "requestFramePermissions": []
+}
